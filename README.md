@@ -50,11 +50,11 @@ Essa será uma aplicação para gerenciar tarefas (em inglês _todos_).Ser
 
 ## :sparkles: Funcionalidades
 
-- [ ] Criar um novo _todo_;
-- [ ] Listar todos os _todos_;
-- [ ] Alterar o `title` e `deadline` de um _todo_ existente;
-- [ ] Marcar um _todo_ como feito;
-- [ ] Excluir um _todo_;
+- [x] Criar um novo _todo_;
+- [x] Listar todos os _todos_;
+- [x] Alterar o `title` e `deadline` de um _todo_ existente;
+- [x] Marcar um _todo_ como feito;
+- [x] Excluir um _todo_;
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
