@@ -33,8 +33,7 @@
 <hr> -->
 
 <p align="center">
-  <a href="#laptop-sobre-o-desafio">Sobre o desafio</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#laptop-sobre-o-desafio">Sobre o desafio</a> &#xa0; |  &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
@@ -55,8 +54,6 @@ Essa será uma aplicação para gerenciar tarefas (em inglês _todos_).Ser
 - [x] Excluir um _todo_;
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
-
-## :sparkles: Funcionalidades
 
 ### POST `/users`
 
@@ -121,15 +118,21 @@ A rota deve receber, pelo header da requisição, uma propriedade `username` con
 
 A rota deve receber, pelo header da requisição, uma propriedade `username` contendo o username do usuário e excluir o _todo_ que possuir um `id` igual ao `id` presente nos parâmetros da rota.
 
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+
 ## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+
 ## :white_check_mark: Pré requisitos
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
 ## :checkered_flag: Começando
 
@@ -149,6 +152,8 @@ $ yarn start
 # O app vai inicializar em <http://localhost:3000>
 ```
 
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
+
 ## :memo: Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
@@ -157,4 +162,4 @@ Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thia
 
 &#xa0;
 
-<a href="#top">Voltar para o topo</a>
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
