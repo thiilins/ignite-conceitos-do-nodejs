@@ -6,7 +6,7 @@
   <!-- <a href="https://desafio.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Ignite | Trilha NodeJS: Conceitos do NodeJS</h1>
+<h1 align="center">Ignite | Trilha NodeJS: Desafio 1 - Conceitos do NodeJS</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-conceitos-do-nodejs?color=04d361&style=for-the-badge">
