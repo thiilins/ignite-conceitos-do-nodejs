@@ -118,21 +118,15 @@ A rota deve receber, pelo header da requisição, uma propriedade `username` con
 
 A rota deve receber, pelo header da requisição, uma propriedade `username` contendo o username do usuário e excluir o _todo_ que possuir um `id` igual ao `id` presente nos parâmetros da rota.
 
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
 ## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
 ## :white_check_mark: Pré requisitos
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
-
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
 ## :checkered_flag: Começando
 
@@ -151,8 +145,6 @@ $ yarn start
 
 # O app vai inicializar em <http://localhost:3000>
 ```
-
-<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
 ## :memo: Licença
 
